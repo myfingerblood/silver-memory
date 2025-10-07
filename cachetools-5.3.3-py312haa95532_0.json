@@ -1,0 +1,47 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\cachetools-5.3.3-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/cachetools-5.3.3.dist-info/INSTALLER",
+    "Lib/site-packages/cachetools-5.3.3.dist-info/LICENSE",
+    "Lib/site-packages/cachetools-5.3.3.dist-info/METADATA",
+    "Lib/site-packages/cachetools-5.3.3.dist-info/RECORD",
+    "Lib/site-packages/cachetools-5.3.3.dist-info/REQUESTED",
+    "Lib/site-packages/cachetools-5.3.3.dist-info/WHEEL",
+    "Lib/site-packages/cachetools-5.3.3.dist-info/direct_url.json",
+    "Lib/site-packages/cachetools-5.3.3.dist-info/top_level.txt",
+    "Lib/site-packages/cachetools/__init__.py",
+    "Lib/site-packages/cachetools/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/cachetools/__pycache__/func.cpython-312.pyc",
+    "Lib/site-packages/cachetools/__pycache__/keys.cpython-312.pyc",
+    "Lib/site-packages/cachetools/func.py",
+    "Lib/site-packages/cachetools/keys.py",
+    ".nonadmin"
+  ],
+  "fn": "cachetools-5.3.3-py312haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\cachetools-5.3.3-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "2a78074fbd6050f97f290c579b21c93c",
+  "name": "cachetools",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\cachetools-5.3.3-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::cachetools==5.3.3=py312haa95532_0[md5=2a78074fbd6050f97f290c579b21c93c]",
+  "sha256": "02669b90ddc21a5ead883fdf4512bef85d57a9b36df2a605e5c3f0dea5c1ffab",
+  "size": 29343,
+  "subdir": "win-64",
+  "timestamp": 1713977269000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/cachetools-5.3.3-py312haa95532_0.conda",
+  "version": "5.3.3"
+}
