@@ -1,0 +1,53 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\alabaster-0.7.16-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/alabaster-0.7.16.dist-info/INSTALLER",
+    "Lib/site-packages/alabaster-0.7.16.dist-info/LICENSE.rst",
+    "Lib/site-packages/alabaster-0.7.16.dist-info/METADATA",
+    "Lib/site-packages/alabaster-0.7.16.dist-info/RECORD",
+    "Lib/site-packages/alabaster-0.7.16.dist-info/REQUESTED",
+    "Lib/site-packages/alabaster-0.7.16.dist-info/WHEEL",
+    "Lib/site-packages/alabaster-0.7.16.dist-info/direct_url.json",
+    "Lib/site-packages/alabaster-0.7.16.dist-info/entry_points.txt",
+    "Lib/site-packages/alabaster/__init__.py",
+    "Lib/site-packages/alabaster/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/alabaster/__pycache__/support.cpython-312.pyc",
+    "Lib/site-packages/alabaster/about.html",
+    "Lib/site-packages/alabaster/donate.html",
+    "Lib/site-packages/alabaster/layout.html",
+    "Lib/site-packages/alabaster/navigation.html",
+    "Lib/site-packages/alabaster/relations.html",
+    "Lib/site-packages/alabaster/static/alabaster.css_t",
+    "Lib/site-packages/alabaster/static/custom.css",
+    "Lib/site-packages/alabaster/support.py",
+    "Lib/site-packages/alabaster/theme.conf",
+    ".nonadmin"
+  ],
+  "fn": "alabaster-0.7.16-py312haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\alabaster-0.7.16-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "d216253e9875f77c197b0f10caf0a231",
+  "name": "alabaster",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\alabaster-0.7.16-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::alabaster==0.7.16=py312haa95532_0[md5=d216253e9875f77c197b0f10caf0a231]",
+  "sha256": "c1cf9b03c9bf5e105f58d5dfaf64ab1678cd4e1f7e0b052788d4aca65821830b",
+  "size": 20600,
+  "subdir": "win-64",
+  "timestamp": 1718201646000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/alabaster-0.7.16-py312haa95532_0.conda",
+  "version": "0.7.16"
+}
