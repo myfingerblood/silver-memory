@@ -1,0 +1,35 @@
+{
+  "build": "h59b6b97_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "libboost 1.82.0 h3399ecb_2",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\boost-cpp-1.82.0-h59b6b97_2",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "boost-cpp-1.82.0-h59b6b97_2.conda",
+  "license": "BSL-1.0",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\boost-cpp-1.82.0-h59b6b97_2",
+    "type": 1
+  },
+  "md5": "e3544840f413d50ad1ee7a0669500b35",
+  "name": "boost-cpp",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\boost-cpp-1.82.0-h59b6b97_2.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::boost-cpp==1.82.0=h59b6b97_2[md5=e3544840f413d50ad1ee7a0669500b35]",
+  "sha256": "37d1d283dbcf38c548b3e22876222461edd31260d0d62acfcb7654150dd631a7",
+  "size": 11725,
+  "subdir": "win-64",
+  "timestamp": 1696764270000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/boost-cpp-1.82.0-h59b6b97_2.conda",
+  "version": "1.82.0"
+}
