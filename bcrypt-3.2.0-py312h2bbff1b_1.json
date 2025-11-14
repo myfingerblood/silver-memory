@@ -1,0 +1,52 @@
+{
+  "build": "py312h2bbff1b_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "cffi >=1.1",
+    "pip",
+    "python >=3.12,<3.13.0a0",
+    "six >=1.4.1",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\bcrypt-3.2.0-py312h2bbff1b_1",
+  "files": [
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/LICENSE",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/METADATA",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/RECORD",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/WHEEL",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/top_level.txt",
+    "Lib/site-packages/bcrypt/__about__.py",
+    "Lib/site-packages/bcrypt/__init__.py",
+    "Lib/site-packages/bcrypt/__pycache__/__about__.cpython-312.pyc",
+    "Lib/site-packages/bcrypt/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/bcrypt/_bcrypt.pyd",
+    "Lib/site-packages/bcrypt/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "bcrypt-3.2.0-py312h2bbff1b_1.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\bcrypt-3.2.0-py312h2bbff1b_1",
+    "type": 1
+  },
+  "md5": "25a0d6d025e4f99d9a0985cf9b865364",
+  "name": "bcrypt",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\bcrypt-3.2.0-py312h2bbff1b_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::bcrypt==3.2.0=py312h2bbff1b_1[md5=25a0d6d025e4f99d9a0985cf9b865364]",
+  "sha256": "7de2bb613fed6d0c1f095a3fcce2500e7c993b340a6c3b694ef8bac1b6d0f63d",
+  "size": 38433,
+  "subdir": "win-64",
+  "timestamp": 1699483880000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/bcrypt-3.2.0-py312h2bbff1b_1.conda",
+  "version": "3.2.0"
+}
