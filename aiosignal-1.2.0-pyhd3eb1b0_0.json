@@ -1,0 +1,53 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "frozenlist >=1.1.0",
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aiosignal-1.2.0-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/aiosignal-1.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/aiosignal-1.2.0.dist-info/LICENSE",
+    "Lib/site-packages/aiosignal-1.2.0.dist-info/METADATA",
+    "Lib/site-packages/aiosignal-1.2.0.dist-info/RECORD",
+    "Lib/site-packages/aiosignal-1.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/aiosignal-1.2.0.dist-info/WHEEL",
+    "Lib/site-packages/aiosignal-1.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/aiosignal-1.2.0.dist-info/top_level.txt",
+    "Lib/site-packages/aiosignal/__init__.py",
+    "Lib/site-packages/aiosignal/__init__.pyi",
+    "Lib/site-packages/aiosignal/py.typed",
+    ".nonadmin",
+    "Lib/site-packages/aiosignal/__pycache__/__init__.cpython-312.pyc"
+  ],
+  "fn": "aiosignal-1.2.0-pyhd3eb1b0_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aiosignal-1.2.0-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "b06b2926e101269f76c8131873483edc",
+  "name": "aiosignal",
+  "noarch": "python",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aiosignal-1.2.0-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/aiosignal/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::aiosignal==1.2.0=pyhd3eb1b0_0[md5=b06b2926e101269f76c8131873483edc]",
+  "sha256": "edd72cab72261a01a897e3d0e3bfffc8e26d60ba4cc7c7566fb0b3549575a4b5",
+  "size": 11953,
+  "subdir": "noarch",
+  "timestamp": 1637843091000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/aiosignal-1.2.0-pyhd3eb1b0_0.conda",
+  "version": "1.2.0"
+}
