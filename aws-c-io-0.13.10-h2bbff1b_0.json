@@ -1,0 +1,61 @@
+{
+  "build": "h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "aws-c-cal >=0.5.20,<0.5.21.0a0",
+    "aws-c-common >=0.8.5,<0.8.6.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-io-0.13.10-h2bbff1b_0",
+  "files": [
+    "Library/bin/aws-c-io.dll",
+    "Library/include/aws/io/channel.h",
+    "Library/include/aws/io/channel_bootstrap.h",
+    "Library/include/aws/io/event_loop.h",
+    "Library/include/aws/io/exports.h",
+    "Library/include/aws/io/file_utils.h",
+    "Library/include/aws/io/host_resolver.h",
+    "Library/include/aws/io/io.h",
+    "Library/include/aws/io/logging.h",
+    "Library/include/aws/io/message_pool.h",
+    "Library/include/aws/io/pipe.h",
+    "Library/include/aws/io/pkcs11.h",
+    "Library/include/aws/io/retry_strategy.h",
+    "Library/include/aws/io/shared_library.h",
+    "Library/include/aws/io/socket.h",
+    "Library/include/aws/io/socket_channel_handler.h",
+    "Library/include/aws/io/statistics.h",
+    "Library/include/aws/io/stream.h",
+    "Library/include/aws/io/tls_channel_handler.h",
+    "Library/include/aws/io/uri.h",
+    "Library/include/aws/testing/io_testing_channel.h",
+    "Library/lib/aws-c-io.lib",
+    "Library/lib/aws-c-io/cmake/aws-c-io-config.cmake",
+    "Library/lib/aws-c-io/cmake/shared/aws-c-io-targets-release.cmake",
+    "Library/lib/aws-c-io/cmake/shared/aws-c-io-targets.cmake",
+    ".nonadmin"
+  ],
+  "fn": "aws-c-io-0.13.10-h2bbff1b_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-io-0.13.10-h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "e0c5257315aa14763b2049ad2e6b0dda",
+  "name": "aws-c-io",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-io-0.13.10-h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::aws-c-io==0.13.10=h2bbff1b_0[md5=e0c5257315aa14763b2049ad2e6b0dda]",
+  "sha256": "c8202a1503e34fc3fd7c1ed8597bd72fb17d3f55a182b0fd125974f0bd96bb13",
+  "size": 156224,
+  "subdir": "win-64",
+  "timestamp": 1706696287000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aws-c-io-0.13.10-h2bbff1b_0.conda",
+  "version": "0.13.10"
+}
